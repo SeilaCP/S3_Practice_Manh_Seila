@@ -1,0 +1,22 @@
+/* TODO */
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.button{
+    color: white;
+    background-color: rgb(220, 106, 125);
+    padding: 20px 100px 20px 100px;
+    border-radius: 30px;
+    border: solid pink 6px;
+}
+
+.button:hover{
+    background-color: rgb(217, 37, 67);
+    border: solid rgb(241, 152, 167) 6px;
+
+}

@@ -1,0 +1,39 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+
+div{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px 100px 0px 100px;
+}
+
+.green{
+    background-color: green;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+}
+
+.orange{
+    background-color: orange;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+}
+
+.purple{
+    background-color: purple;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+}
+
+div button:hover{
+    color: black;
+}
